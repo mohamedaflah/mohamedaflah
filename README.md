@@ -7,14 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 **
-
-- 🌱 **
-
-- 👯 I’m looking to collaborate on **MERN stack developers**
-
-- 🤝 I’m looking for help with **Full stack**
-
+- 🔭 Expert in Data strctures and algorithms
+  
 - 💬 Ask me about **#MERN #MEAN #C #JAVA #K8S #Dokcer #REST #GRPC #Kafka #Rabbitmq**
 
 - 📫 How to reach me **mohamedaflah186@gmail.com**
