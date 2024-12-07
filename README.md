@@ -9,7 +9,7 @@
 
 - 🔭 Expert in Data strctures and algorithms
   
-- 💬 Ask me about **#MERN #MEAN #C #JAVA #K8S #Dokcer #REST #GRPC #Kafka #Rabbitmq**
+- 💬 Ask me about **#MERN #MEAN #C #JAVA #K8S #Docker #REST #GRPC #Kafka #Rabbitmq #DSA #Deployment #AWS #Azure**
 
 - 📫 How to reach me **mohamedaflah186@gmail.com**
 
